@@ -93,7 +93,7 @@ US Army Survival Manual (FM 21-76), Where There Is No Doctor, Where There Is No 
 Connect any device to the **SurvivalKit** WiFi network, then open:
 
 ```
-http://x.x.x.x
+http://192.168.x.x
 ```
 
 From there: Knowledge Base, Documents, and Maps.
